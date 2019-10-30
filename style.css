@@ -86,3 +86,7 @@ input[type=checkbox]{
 		font-size: 14px;
 	}
 }
+
+#length{
+  width: 50px;
+}
